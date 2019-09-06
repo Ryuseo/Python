@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="comment.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="variable.py">
       <SubType>Code</SubType>
     </Compile>
