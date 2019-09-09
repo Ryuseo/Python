@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>59299c4c-44cb-4a1f-8947-379d4eaeac69</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>print().py</StartupFile>
+    <StartupFile>01_print().py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,13 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="comment.py">
+    <Compile Include="03_comment.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="variable.py">
+    <Compile Include="02_variable.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="print%28%29.py">
+    <Compile Include="01_print%28%29.py">
       <Publish>True</Publish>
     </Compile>
   </ItemGroup>
