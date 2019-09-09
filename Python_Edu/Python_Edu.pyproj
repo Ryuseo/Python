@@ -30,6 +30,12 @@
     <Compile Include="01_print%28%29.py">
       <Publish>True</Publish>
     </Compile>
+    <Compile Include="04_number.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="05_if.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
